@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "46_preprocessorInC1.c"  //here we have included all the contents of file 46_preprocessorInC.c
+#include "46_preprocessorInC1.c"  //Here we have included all the contents of file 46_preprocessorInC1.c
 int main()
 {
     float x, y;
